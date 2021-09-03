@@ -12,7 +12,7 @@ app.use(morgan('dev'))
 app.use(express.json())
 
 
-app.set('event',eventEmitter);
+
 app.use('/',baseRouter);
 
 const PORT = process.env.PORT || 8000;
