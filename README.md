@@ -36,6 +36,10 @@
 Virtual waiting rooms enable social distancing to support a better patient experience and better outcomes.
 A virtual waiting room helps you prevent your healthcare organization from being associated with pesky sounds, smells, people, and boredom that can easily be avoided.
 
+### Demo
+
+Click [here](https://www.youtube.com/watch?v=tjcLdrwBgHY) to see the workflow of the whole project.
+
 ### Highlights
 
 ✨ No waiting in long queues for booking appointments, patients can book their slot in the comfort of their homes </br>
