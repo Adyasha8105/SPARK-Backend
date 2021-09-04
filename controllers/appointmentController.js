@@ -355,8 +355,7 @@ module.exports = {
                 const getResult  = await client.execute(getQuery,[pphoneno,apdate],{prepare:true}).then(response => response.rows[0]);
       
             
-                const eventEmitter=req.app.get('event');
-                eventEmitter.emit('StatusUpdated',{dphoneno,apdate});
+               
 
 
             res.send({
