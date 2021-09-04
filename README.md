@@ -74,7 +74,7 @@ A virtual waiting room helps you prevent your healthcare organization from being
 - After completion of the visit of a patient, the doctor needs to click on the next button which shall proceed the virtual queue one step ahead.
 - This would update the virtual queue and patients shall know their current position and estimated visiting time.
 
-## Features that we are planning to add in future:
+## Features that we are planning to add in future
 
 - Registrations for hospitals as well.
 - Send emails and notifications to patients about the updates in read-time.
